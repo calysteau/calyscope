@@ -1,5 +1,5 @@
 # calyscope
-Unveil the local market's secrets without spending a dime with Calyscope. Exclusively tailored for individual entrepreneurs, this free, user-friendly application demystifies market analysis, illuminating local opportunities and competition in a straightforward manner.
+Unveil the local market's secrets with Calyscope. Exclusively tailored for individual entrepreneurs, this free, user-friendly application demystifies market analysis, illuminating local opportunities and competition in a straightforward manner.
 
 Keeping simplicity at its core, Calyscope presents clear cartographic visuals and concise tabular reports, ensuring market studies are both accessible and actionable.
 
