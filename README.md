@@ -6,3 +6,5 @@ Keeping simplicity at its core, Calyscope presents clear cartographic visuals an
 Whether you're an artisan, a consultant, or taking a leap into a new local venture, Calyscope provides the precise insights you need, at no cost. 
 
 Dive into a world where market intelligence meets simplicity—and it's all free.
+
+https://calysteau.fr/calyscope?x=1.4189&y=43.4282&d=10000
